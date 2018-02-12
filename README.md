@@ -1,7 +1,7 @@
-# image-stiching
+# Image-stiching
 Create panorma by stiching, two images together using opencv
 
-# usage
+# Usage
 
 # A: Horizontal
 1.For 2 images
@@ -13,8 +13,8 @@ Create panorma by stiching, two images together using opencv
 
 
 # required libraries
-1.cv2
-2.imutils
-3.numpy
+1.cv2 <br />
+2.imutils <br />
+3.numpy <br />
 
 
